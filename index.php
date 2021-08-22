@@ -9,5 +9,9 @@
 <body>
     <h2>assalamualaikum dunia</h2>
     <p>yang terhormat sodara sodara saya sekalian</p>
+    <ul>
+        <li>wantutri</li>
+        <li>forfivsik</li>
+    </ul>
 </body>
 </html>
